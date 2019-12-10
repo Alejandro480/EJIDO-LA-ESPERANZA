@@ -8,7 +8,7 @@ Alejandro Ramirez Serratos,
     
 # Pendientes-del-Ejido-la-Esperanza
 
-IMAGEN
+![PalabrasdelTextoAlternativo]()
 
 # Resumen
 
@@ -109,19 +109,19 @@ Lo que se logro obtener mediante la realización del código fue la demostra-ci�
 
 Grafica de Pastel 
 
-IMAGEN
+![PalabrasdelTextoAlternativo]()
 
 Rangos de Elevacion 
 
-IMAGEN
+![PalabrasdelTextoAlternativo]()
 
 Tabla de datos
 
-IMAGEN
+![PalabrasdelTextoAlternativo]()
 
 Ejido la Esperanza
 
-IMAGEN
+![PalabrasdelTextoAlternativo]()
 
 # Conclusiones 
 
