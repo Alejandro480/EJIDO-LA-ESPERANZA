@@ -8,7 +8,7 @@ Alejandro Ramirez Serratos,
     
 # Pendientes-del-Ejido-la-Esperanza
 
-![PalabrasdelTextoAlternativo]()
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/EJIDO-LA-ESPERANZA/blob/master/IMAGENES/EJIDO.png)
 
 # Resumen
 
@@ -113,15 +113,15 @@ Grafica de Pastel
 
 Rangos de Elevacion 
 
-![PalabrasdelTextoAlternativo]()
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/EJIDO-LA-ESPERANZA/blob/master/IMAGENES/RANGOS.png)
 
 Tabla de datos
 
-![PalabrasdelTextoAlternativo]()
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/EJIDO-LA-ESPERANZA/blob/master/IMAGENES/TABLA.png)
 
 Ejido la Esperanza
 
-![PalabrasdelTextoAlternativo]()
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/EJIDO-LA-ESPERANZA/blob/master/IMAGENES/EJIDO.png)
 
 # Conclusiones 
 
