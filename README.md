@@ -105,7 +105,7 @@ AGREGAR IMAGEN (ESPECIFICACIONES)
 
 # Resultados
 
-Lo que se logro obtener mediante la realización del código fue la demostra-ción de las imágenes que se anexaran posteriormente, al igual que la tabla donde se almacenan los datos obteni-dos de las pendientes del Ejido la Espe-ranza. 
+Lo que se logro obtener mediante la realización del código fue la demostra-ción de las imágenes que se anexaran posteriormente, al igual que la tabla donde se almacenan los datos obteni-dos de las pendientes del Ejido la Esperanza. 
 
 Grafica de Pastel 
 
