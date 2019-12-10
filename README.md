@@ -101,7 +101,7 @@ El programa está diseñado dentro de un sistema operativo de Windows, especí-f
 5.2. 	Equipo de prueba
 El equipo en el cual fue probado el pro-grama es una computadora portátil de la marca Hp Pavilion con las siguientes características:
 
-AGREGAR IMAGEN (ESPECIFICACIONES)
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/EJIDO-LA-ESPERANZA/blob/master/IMAGENES/Especificaciones.png)
 
 # Resultados
 
@@ -109,7 +109,7 @@ Lo que se logro obtener mediante la realización del código fue la demostra-ci�
 
 Grafica de Pastel 
 
-![PalabrasdelTextoAlternativo]()
+![PalabrasdelTextoAlternativo](https://github.com/Alejandro480/EJIDO-LA-ESPERANZA/blob/master/IMAGENES/Grafica.png)
 
 Rangos de Elevacion 
 
