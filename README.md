@@ -1,8 +1,8 @@
 # EJIDO-LA-ESPERANZA
 Muestra los datos obtenidos de obtención de las pendientes del Ejido la Esperanza y finalmente poder mostrar una imagen de dicho Ejido.
 
-Alejandro Ramirez Serratos,   
-    correo electronico: aserratos0809@gmail.com 
+Alejandro Ramirez Serratos
+   	 correo electronico: aserratos0809@gmail.com 
     
     "Facultad de Ingeniería Civil, PE-ITG..." Programa educativo Ingeniero Topografo Geomatico
     
